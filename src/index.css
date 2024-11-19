@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jaro:opsz@6..72&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	/*font systhème */
+	--font-inter: "Inter", sans-serif;
+	--font-jaro: "Jaro", sans-serif;
+
+	/*text color */
+	--text-color-navigate: #919191;
+	--text-color-content: #000;
+	--text-color-title: #dd2f2f;
+
+	/*font size*/
+	--text-font-size: 16px;
+	--text-font-size-1: 24px;
+	--text-font-size-2: 54px;
+	/*font size Header*/
+	--text-font-1: 40px;
+	--text-font-2: 15px;
+	/*font size navigation*/
+	--text-font-navigate: 24px;
+	--text-font-h-navigate: 36px;
+}
+
+body {
+	font-family: var(--font-inter);
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
