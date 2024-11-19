@@ -48,3 +48,12 @@ export default tseslint.config({
   },
 })
 ```
+## NetFlox app mobile
+
+Le site est une représentation simplifiée de Netflix. Il permet de voir les contenus disponibles dans un style épuré.
+<img width="1682" alt="Screenshot 2024-11-19 at 22 56 51" src="https://github.com/user-attachments/assets/0ba9c6ac-e65e-4f1a-b8a3-ab5cd1e12c6a">
+
+Vous avez la possibilité de voir les notations et les votes des films du moment. Soyez informé avant de consommer !
+<img width="1682" alt="Screenshot 2024-11-19 at 23 04 40" src="https://github.com/user-attachments/assets/ee06a52a-1fe7-45d0-aaaf-415ff071c6e9">
+
+
